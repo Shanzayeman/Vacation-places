@@ -1,0 +1,45 @@
+#imp{
+    border-radius: 120px;
+    display: block;
+    margin-left: 36%;
+}
+div{
+    border: 2px solid white;
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+}
+#kiki{
+    margin-top: 100px;
+    font-size: smaller;
+}
+#mary{
+    text-shadow: 0px 0px 5px rgb(8, 16, 36);
+    font-size: 45px;
+}
+#hani{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#fir{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sec{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#thi{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#RONI{
+    margin-left: 200px;
+    margin-top: 5px;
+}
+#momy{
+    font-size: 40px;
+}
+#ran{
+    text-transform: capitalize;
+}
+#mad{
+    text-justify: auto;
+}
